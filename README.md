@@ -4,6 +4,6 @@
 
 ## Bo'lajak Full Stack dasturchi
 
-## Toshkent shaxrida tavallud topgan
+### Toshkent shaxrida tavallud topgan
 
-## Qiziqishlari
+### Qiziqishlari
